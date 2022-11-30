@@ -10,3 +10,10 @@ According to my logic Above example should evaulate to following Logic :
 (e.g. a $120 purchase = 2x$20 + 1x$70 = 110 points).
 
 Let me know above is correct.
+
+# Implemented following points:
+1. Test Cases.
+2. Services.
+3. fetch API.
+4. Resuable components
+5. Helpers and Utils in seperate folders.
